@@ -1,4 +1,4 @@
-<script>
+
 function ready(){
 var o=document.getElementById("others");
 var y=document.getElementById("me");
@@ -18,4 +18,3 @@ var q= document.getElementById("btny");
   }
 }
 ready();
-</script
