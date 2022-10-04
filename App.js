@@ -1,4 +1,5 @@
 <script>
+function ready(){
 var o=document.getElementById("others");
 var y=document.getElementById("me");
    function myFunction(x){
@@ -14,5 +15,7 @@ var q= document.getElementById("btny");
      if(q.click=true){
     var m= confirm("You are being redirect to our whatshapp store");
  }    
+  }
 }
+ready();
 </script
